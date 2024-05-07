@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/nuinn/nuinn/assets/117274345/b8358c90-ae68-41f0-8dc8-19e6e4797d87)
+
 <!--
 **nuinn/nuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
