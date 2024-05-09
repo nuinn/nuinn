@@ -67,7 +67,7 @@ if (you.interested.includes(me)) {
 
 <div align=center>
 
-## The Good Stuff 🎸 🎧 🎺
+## What I'm Listening To 🎸 🎧 🎺
 
 <a href="https://open.spotify.com/user/nuinn?si=JvPub9ubRx-YITOwA2OBCQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://www.last.fm/user/nuinn"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a>
 
