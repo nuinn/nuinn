@@ -57,7 +57,7 @@ learning(['Next.js', 'Angular', 'TailwindCSS', 'Typescript', 'Kubernetes']);
 
 ```javascript
 function contactMe() {
-  return 'mailto: marcdilley@gmail.com';
+  return 'mailto:marcdilley@gmail.com';
 }
 
 if (you.interested.includes(me)) {
@@ -73,13 +73,15 @@ if (you.interested.includes(me)) {
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&redirect=true)
 
-
 ## Stats 📊 📈 🔍
 
+![nuinn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+
+![nuinn's Stats](https://github-readme-stats.vercel.app/api?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+
+![nuinn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuinn&theme=slateorange&hide_border=true)
+
 </div>
-
-![nuinn's Stats](https://github-readme-stats.vercel.app/api?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&count_private=true)![nuinn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuinn&theme=slateorange&hide_border=true)![nuinn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
-
 
 
 
