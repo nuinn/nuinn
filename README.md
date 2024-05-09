@@ -75,11 +75,7 @@ if (you.interested.includes(me)) {
 
 ## Stats 📊 📈 🔍
 
-![nuinn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
-
-![nuinn's Stats](https://github-readme-stats.vercel.app/api?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-
-![nuinn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuinn&theme=slateorange&hide_border=true)
+![nuinn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&layout=compact)![nuinn's Stats](https://github-readme-stats.vercel.app/api?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
