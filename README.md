@@ -39,7 +39,7 @@ function learning(skillsToLearn) {
   skillsToLearn.map((skill) => {
     setTimeout(() => {
       me.stack.push(skill);
-    }, '2-4 weeks');
+    }, 'give me 2 weeks');
   });
 }
 
@@ -52,7 +52,6 @@ learning(['Next.js', 'Angular', 'TailwindCSS', 'Typescript', 'Kubernetes']);
 
 <a href="mailto:marcdilley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/marcdilley/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
 
@@ -65,7 +64,9 @@ if (you.interested.includes(me)) {
   contactMe();
 }
 ```
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+<a href="https://open.spotify.com/user/nuinn?si=JvPub9ubRx-YITOwA2OBCQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.last.fm/user/nuinn"><img src="https://badges.lastfm.workers.dev/last-played?user=nuinn&style=for-the-badge"></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&redirect=true)
 
 
 ![nuinn's Stats](https://github-readme-stats.vercel.app/api?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
