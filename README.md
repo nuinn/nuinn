@@ -67,16 +67,20 @@ if (you.interested.includes(me)) {
 
 <div align=center>
 
-## Stats 📊 📈 🔍
-
-![nuinn's Stats](https://github-readme-stats.vercel.app/api?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&count_private=true)![nuinn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuinn&theme=slateorange&hide_border=true)![nuinn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
-
 ## The Good Stuff 🎸 🎧 🎺
 
-<a href="https://open.spotify.com/user/nuinn?si=JvPub9ubRx-YITOwA2OBCQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.last.fm/user/nuinn"><img src="https://badges.lastfm.workers.dev/last-played?user=nuinn&style=for-the-badge"></a>
+<a href="https://open.spotify.com/user/nuinn?si=JvPub9ubRx-YITOwA2OBCQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://www.last.fm/user/nuinn"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&redirect=true)
 
+
+## Stats 📊 📈 🔍
+
 </div>
+
+![nuinn's Stats](https://github-readme-stats.vercel.app/api?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&count_private=true)![nuinn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuinn&theme=slateorange&hide_border=true)![nuinn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuinn&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+
+
+
 
 
