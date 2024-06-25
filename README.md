@@ -43,7 +43,7 @@ function learning(skillsToLearn) {
   });
 }
 
-learning(['Next.js', 'Angular', 'TailwindCSS', 'Typescript', 'Kubernetes']);
+learning(['Vue', 'TailwindCSS', 'Typescript', 'Kubernetes']);
 ```
 
 <div align=center>
