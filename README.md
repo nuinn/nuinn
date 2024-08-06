@@ -18,10 +18,13 @@ const me = {
     spoken: ['English', 'Spanish'],
   },
   stack: [
+    'MySQL',
     'MongoDB',
-    'Express.js',
+    'Express',
+    'Koa',
     'React',
-    'Node.js',
+    'Vue',
+    'Node',
   ]
 };
 ```
@@ -43,7 +46,7 @@ function learning(skillsToLearn) {
   });
 }
 
-learning(['Vue', 'TailwindCSS', 'Typescript', 'Kubernetes']);
+learning(['Typescript', 'TailwindCSS', 'Kubernetes']);
 ```
 
 <div align=center>
