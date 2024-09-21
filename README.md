@@ -74,9 +74,7 @@ if (you.interested.includes(me)) {
 
 <a href="https://open.spotify.com/user/nuinn?si=JvPub9ubRx-YITOwA2OBCQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://www.last.fm/user/nuinn"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nuinn&redirect=true)
-
-<iframe src="http://www.icj.me/plugins/nowplaying.php?username=nuinn&color=red" seamless></iframe>
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nuinn&show_user=header&width=480&footer_style=normal_stats)
 
 ## Stats 📊 📈 🔍
 
