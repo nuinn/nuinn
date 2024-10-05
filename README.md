@@ -39,7 +39,7 @@ const me = {
 
 ```javascript
 function learning(skillsToLearn) {
-  skillsToLearn.map((skill) => {
+  skillsToLearn.forEach(skill => {
     setTimeout(() => {
       me.stack.push(skill);
     }, 'give me 2 weeks');
