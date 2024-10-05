@@ -18,7 +18,7 @@ const me = {
     spoken: ['English', 'Spanish'],
   },
   stack: [
-    'MySQL',
+    'SQL',
     'MongoDB',
     'Express',
     'Koa',
