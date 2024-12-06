@@ -14,7 +14,7 @@ const me = {
   born: 'London 🇬🇧',
   based: 'Valencia 🇪🇸',
   languages: {
-    programming: ['Python','Javascript', 'HTML', 'CSS'],
+    programming: ['Python', 'Javascript', 'HTML', 'CSS'],
     spoken: ['English', 'Spanish'],
   },
   stack: [
