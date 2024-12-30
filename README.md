@@ -25,7 +25,7 @@ const me = {
     'React',
     'Vue',
     'Node',
-    'Python,
+    'Python',
   ]
 };
 ```
